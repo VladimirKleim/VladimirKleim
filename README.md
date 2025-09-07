@@ -1,4 +1,4 @@
-## Hi there, I'm Vladimir
+## Hi there, I'm Vladimir :snowflake:
 
 
 ## Skills:
