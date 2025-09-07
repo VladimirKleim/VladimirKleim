@@ -1,8 +1,8 @@
-## Hi there, I'm Vladimir :snowflake:
+# Hi there, I'm Vladimir :snowflake:
 
 
 
-# Skills:
+## Skills:
 ![icons8-логотип-java-coffee-cup-50](https://github.com/user-attachments/assets/e4899d86-20dd-4b85-80f6-fd1ec95527e5)
 ![icons8-sql-50](https://github.com/user-attachments/assets/f9bf3582-4463-444e-9b33-9bb2722118e1)
 ![icons8-логотип-spring-50](https://github.com/user-attachments/assets/5af83dbb-caaf-4f9a-ba7e-08204269ba14)
