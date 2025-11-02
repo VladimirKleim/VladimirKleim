@@ -12,4 +12,5 @@
 ![icons8-apache-kafka-50](https://github.com/user-attachments/assets/7b165bbe-d0a1-4288-b484-4df5a10a53c4)
 ![icons8-redis-50](https://github.com/user-attachments/assets/848116c2-2d75-4bc8-b0f2-303918efb667)
 ![icons8-github-50](https://github.com/user-attachments/assets/a8c85afb-60e1-4ea2-bb85-9edb4360e337)
+<a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pheralb/svgl/7e0bb11c004829fe30b1cc7c16f96f71637e5f97/static/library/swagger.svg" alt="swagger" width="40" height="40"/></a>
 ![icons8-postman-api-50](https://github.com/user-attachments/assets/2e2a90cd-adcd-4900-944c-c68a00952738)
